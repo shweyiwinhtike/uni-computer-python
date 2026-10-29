@@ -1,0 +1,10 @@
+python
+c
+cpp
+brainf
+javascript
+php
+ahhhh
+gdscript
+roblox
+valo
